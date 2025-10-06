@@ -58,7 +58,7 @@ return [
      */
     'before' => [
         'assets' => '/Users/steve/Library/pnpm/pnpm build',
-        'og-images' => 'php artisan prezet:ogimage --all',
+        // 'og-images' => 'php artisan prezet:ogimage --all',
         // 'assets' => '/usr/local/bin/yarn production',
     ],
 
