@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    <url>
+        <loc>https://blog.test/articles/testing</loc>
+        <lastmod>2025-10-06T09:34:51+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/testing/laravel-database-testing</loc>
+        <lastmod>2025-10-06T09:34:51+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/testing/laravel-fakes</loc>
+        <lastmod>2025-10-06T09:34:51+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/testing/laravel-mocking</loc>
+        <lastmod>2025-10-06T09:34:51+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/testing/laravel-testing</loc>
+        <lastmod>2025-10-06T09:34:51+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/how-i-would-have-built-laravel-cloud</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/multi-tenancy-without-the-hassle</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/building-and-deploying-an-astro-website</loc>
+        <lastmod>2025-10-06T10:05:43+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/what-are-mcp-servers-and-why-should-i-care</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/nuxt-and-why-you-should-be-using-it</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/sevalla-on-the-command-line</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/sevalla-101</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/advanced-authorization-methods-in-laravel</loc>
+        <lastmod>2025-10-06T10:04:12+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/deploying-laravel-on-sevalla</loc>
+        <lastmod>2025-10-06T10:06:30+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/diving-into-notifications</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/the-definitive-guide-to-webhooks-in-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/api-experience</loc>
+        <lastmod>2025-10-06T10:04:04+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/api-ops</loc>
+        <lastmod>2025-10-06T10:05:00+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/homelab-dashboard</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/api-versioning-in-laravel</loc>
+        <lastmod>2025-10-06T10:05:03+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/what-are-the-different-parts-of-a-url</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/making-apis-the-right-way</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/modelling-business-processes-in-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/passwordless-authentication-in-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/laravel-response-classes</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/laravel-ci-with-github-actions</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/managing-routes</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/getting-started-with-phpinsights</loc>
+        <lastmod>2025-10-06T10:12:04+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/laravel-pennant</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/testing-json-api-endpoints-with-pestphp</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/building-apis-in-laravel</loc>
+        <lastmod>2025-10-06T10:05:49+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/reducing-code-duplication</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/leaning-on-the-container</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/configuring-laravel-pint</loc>
+        <lastmod>2025-10-06T10:06:14+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/using-open-ai-in-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/effective-eloquent</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/two-developers-approach-the-same-problem</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/eloquent-api-calls</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/creating-a-password-generator</loc>
+        <lastmod>2025-10-06T10:06:22+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/fun-with-refactoring</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/your-first-laravel-9-application</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/validation</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/composition-over-inheritance-in-final-classes</loc>
+        <lastmod>2025-10-06T10:06:08+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/facade</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/modern-php-features-explained</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/automating-your-openapi-documentation</loc>
+        <lastmod>2025-10-06T10:05:06+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/uploading-files-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/building-a-slide-over-panel-component-with-livewire</loc>
+        <lastmod>2025-10-06T10:05:34+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/writing-to-the-database-with-eloquent</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/simple-one-time-password-authentication-in-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/setting-up-your-data-model-in-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/behavioral-driven-development</loc>
+        <lastmod>2025-10-06T10:05:13+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/from-idea-to-blog-to-live-without-leaving-your-ide</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/working-with-os-process-in-php</loc>
+        <lastmod>2025-10-06T10:11:58+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/working-with-laravel-model-events</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/event-sourcing-in-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/zero-hassle-cli-application-with-laravel-zero</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/how-i-develop-applications-with-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/json-api-resources-in-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/building-your-own-laravel-packages</loc>
+        <lastmod>2025-10-06T10:05:55+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/laravel-model-factories</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/working-with-data-in-api-integrations</loc>
+        <lastmod>2025-10-06T10:11:52+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/using-route-registrars-in-your-laravel-application</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/building-your-website-using-jigsaw</loc>
+        <lastmod>2025-10-06T10:06:01+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/state-of-laravel-survey-2022</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/eloquent-attribute-casting</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/laravel-pint</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/getting-started-laravel-scout-meilisearch</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/logging-external-http-requests-with-laravel-telescope</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/running-phpstan-on-max-with-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/api-integrations-using-saloon-in-laravel</loc>
+        <lastmod>2025-10-06T10:04:57+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/laravel-subdomains-in-docker</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/sauber-php</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/building-a-cli-application-in-2022</loc>
+        <lastmod>2025-10-06T10:05:18+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/laravel-command-bus</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/adapter-pattern</loc>
+        <lastmod>2025-10-06T10:04:04+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/testing-api-responses-in-pest-php</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/tappable-query-scopes-in-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/routing-within-our-domain</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/getting-started-with-ddd-in-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/querying-records-in-our-domain</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/starting-our-domain-code-with-data-objects-and-factories</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/using-data-objects-in-domain-commands</loc>
+        <lastmod>2025-10-06T10:00:37+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/quick-look-into-laravel-feature-flags</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/introducing-laravel-transporter</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/working-with-third-party-services-in-laravel</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/adventures-in-php-php-sdk-builder</loc>
+        <lastmod>2025-10-06T10:04:19+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/adventures-in-php-php-uri-builder</loc>
+        <lastmod>2025-10-06T10:04:25+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/phponline-the-story-so-far</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/building-a-rest-api-in-golang</loc>
+        <lastmod>2025-10-06T10:05:23+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/my-first-go-module-go-api-problem</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/embracing-the-tall-stack-with-event-sourcing-an-adventure-into-the-unknown</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/embracing-psrs-to-build-an-interoperable-http-client</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/an-adventure-with-graph-databases</loc>
+        <lastmod>2025-10-06T10:04:31+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/parameterbag-my-latest-open-source-package</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>https://blog.test/articles/slim4-a-lightweight-breath-of-fresh-air</loc>
+        <lastmod>2025-10-06T10:03:05+00:00</lastmod>
+
+            </url>
+</urlset>
